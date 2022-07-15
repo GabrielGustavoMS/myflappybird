@@ -6,7 +6,7 @@
 
 ## Motivation
 
-The flappy bird game was part of my adolescence and I wanted to practice my knowledge of Unity, so I created my own version. It is very similar to the original version, simple and fun.
+The Flappy Bird game was part of my adolescence and I wanted to practice my knowledge of Unity, so I created my own version. It is very similar to the original version, simple and fun.
 
 ## Technologies
 
